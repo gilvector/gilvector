@@ -1,7 +1,7 @@
 ### Hello, World!  Gil here <img src="https://media.tenor.com/kzMUk2-LgL8AAAAi/welcome.gif" width="45px"> <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilguim36/files/main/capa-github3.png" width="100%" title="Cover" alt="Github Readme Cover">
+  <img src="https://github.com/gilguim36/files/blob/main/gil-vector-capa-github.png" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
 
 <div align="center">
