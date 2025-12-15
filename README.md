@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://github.com/gilvector/files/blob/main/gil-vector-capa-github.png" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gilvector&theme=onedark)](https://github.com/gilvector/github-profile-trophy)
-<div align="center">	
-  <p><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" /></p>
-  <p><img src="https://github-profile-trophy.vercel.app/?username=gilvector&theme=flat&row=1&column=7" /></p>
-</div>
 	
 <div align="center">
     <table>
