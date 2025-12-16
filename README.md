@@ -6,13 +6,7 @@
 	
 <div align="center">
     <table>
-        <tr>
-            <td>		
-		<img src="https://github-readme-stats.vercel.app/api?username=gilvector&show_icons=true" />
-            </td>
-			<td>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=gilvector" alt="gilvector" />               		
-            </td>
+        <tr>            
 	    	<td>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvector&layout=compact"/>                
             </td>
