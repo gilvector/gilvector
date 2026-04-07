@@ -1,7 +1,7 @@
 ### Hello, World! Gil Vector here <img src="https://media.tenor.com/kzMUk2-LgL8AAAAi/welcome.gif" width="45px"> <br>
 
 <p align="center">
-  <img src="https://github.com/gilvector/files/blob/main/SOGION%20(4).png" width="100%" title="Cover" alt="Github Readme Cover">
+  <img src="https://github.com/gilvector/files/blob/main/capa-linkedin%20(5).png" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
 	
 I am a Business Data Science and Data Analysis explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science and AI field. :wink:
